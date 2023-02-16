@@ -1,0 +1,29 @@
+.onswitch{
+    background-color: #FFFFCC;
+    height:20rem;
+    width:20rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: large;
+    color: orange;
+}
+
+.offswitch{
+    background-color:#778899;
+    height:20rem;
+    width:20rem;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: large;
+    color:#383838;
+}
+.switchInp{
+    width:20rem; 
+    height: 2rem;
+}
